@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>#4</title>
+
+<script>
+function showName(){
+alert("Asha".toUpperCase());
+}
+</script>
+
+</head>
+
+<body>
+
+<header>
+<h1>Testing a String Function</h1>
+<img src="images.jpg" width="200">
+</header>
+
+<main>
+<section>
+<p>Click button to see my name.</p>
+<button onclick="showName()">Testing a String Function</button>
+</section>
+</main>
+
+<footer>
+<p>Assignment</p>
+</footer>
+
+<!--
+semantic tags help organize the page
+they make it easier to read
+-->
+
+</body>
+</html>
